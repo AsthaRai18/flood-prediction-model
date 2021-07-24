@@ -1,1 +1,1 @@
-AI Based Flood Predictio Model
+AI Based Flood Prediction Model
